@@ -62,7 +62,7 @@ function megaFriend(friends) {
 
 }
 
-var friendsName = ["Gowtam kumar", "Kalam", "Jamal", "korim"]; //you can change stirng
+var friendsName = ["Gowtam kumar", "Kalam", "Jamal", "korim"]; //you can change String
 var result = megaFriend(friendsName);
 console.log(result);
 
